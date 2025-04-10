@@ -1,0 +1,192 @@
+﻿Country code,Country,Case & death data by sex?,Cases date,Cases where sex-disaggregated data is available,Cases (% male),Cases (% female),Deaths date,Deaths where sex-disaggregated data is available,Deaths (% male),Deaths (% female),Deaths in confirmed cases date,Proportion of deaths in confirmed cases (male),Proportion of deaths in confirmed cases (female),Proportion of deaths in confirmed cases (Male:female ratio),Source
+AF,Afghanistan,Yes,2/16/2021,53282,67.16%,32.84%,2/16/2021,2061,72.44%,27.56%,2/16/2021,4.17%,3.25%,1.29,http://covid.moph-dw.org/#/
+AL,Albania,Yes,3/1/2021,107931,48%,52%,3/1/2021,1816,67%,33%,3/1/2021,2.35%,1.07%,2.2,https://coronavirus.al/statistika/
+AR,Argentina,Yes,3/1/2021,2093099,49.76%,50.24%,3/1/2021,45906,54%,46%,3/1/2021,2.38%,2.01%,1.19,https://www.argentina.gob.ar/salud/coronavirus-COVID-19/sala-situacion
+AU,Australia,Yes,3/3/2021,28876,49.07%,50.93%,3/3/2021,909,48.40%,51.60%,3/3/2021,3.11%,3.19%,0.97,https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers
+AT,Austria,Yes,3/4/2021,464378,48.64%,51.36%,3/4/2021,8493,51.78%,48.22%,3/4/2021,1.95%,1.72%,1.13,https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html
+BD,Bangladesh,Yes,3/2/2021,546801,71%,29%,3/2/2021,8416,77%,23%,3/2/2021,1.83%,1.34%,1.37,https://covid19bd.idare.io/
+BB,Barbados,Yes,3/1/2021,3115,53.16%,46.84%,2/2/2021,13,61.54%,38.46%,2/2/2021,0.86%,0.77%,1.12,https://gisbarbados.gov.bb/?s=covid+death
+BE,Belgium,Yes,3/2/2021,772772,45.04%,54.96%,3/2/2021,22116,49.26%,50.74%,3/2/2021,3.13%,2.64%,1.18,https://epistat.wiv-isp.be/Covid/covid-19.html
+BZ,Belize,Yes,3/1/2021,12313,52.45%,47.55%,3/1/2021,314,65.61%,34.39%,3/1/2021,3.19%,1.84%,1.73,https://www.facebook.com/Belizehealth/
+BT,Bhutan,Yes,3/1/2021,867,67.36%,32.64%,3/1/2021,1,100%,,3/1/2021,0.17%,,1,https://www.facebook.com/MoHBhutan
+BA,Bosnia and Herzegovina,Yes,3/2/2021,86319,51.59%,48.41%,3/2/2021,2581,63.81%,36.19%,3/2/2021,3.70%,2.24%,1.65,https://covid-19.ba/
+BR,Brazil,Yes,12/19/2020,565465,56.13%,43.87%,2/6/2021,203724,57.31%,42.70%,12/19/2020,33.15%,31.30%,1.06,https://covid.saude.gov.br/
+BF,Burkina Faso,Yes,2/26/2021,11982,62.54%,37.46%,8/25/2020,55,74.51%,25.49%,8/25/2020,4.63%,3%,1.54,https://lefaso.net/spip.php?article102668
+CV,Cabo Verde,Yes,3/1/2021,15195,47.67%,52.33%,12/27/2020,112,58.04%,41.96%,12/27/2020,1.17%,0.76%,1.53,https://covid19.cv/
+KH,Cambodia,Yes,2/22/2021,568,61.80%,38.20%,2/22/2021,,0%,0%,2/22/2021,,,1,https://www.who.int/docs/default-source/wpro---documents/countries/cambodia/covid-19/covid-19-joint-who-moh-sitrep-34.pdf?sfvrsn=6178a0a2_5
+CA,Canada,Yes,2/25/2021,854747,48.67%,51.33%,2/25/2021,21799,48.64%,51.36%,2/25/2021,2.55%,2.55%,1,https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html#a7
+TD,Chad,Yes,2/26/2021,2842,72.55%,27.45%,2/26/2021,109,77.98%,22.02%,2/26/2021,4.12%,3.08%,1.34,https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/sitrep_covid-19_n340_26_fevrier_-_2021.pdf
+CL,Chile,Yes,3/2/2021,921796,50%,50%,5/7/2020,294,60%,40%,5/7/2020,1.28%,0.97%,1.32,https://www.gob.cl/coronavirus/cifrasoficiales/
+CN,China,Yes,2/28/2020,55924,51%,49%,2/28/2020,2114,64%,36%,2/28/2020,4.70%,2.80%,1.68,http://en.nhc.gov.cn/2021-03/03/c_83078.htm
+CO,Colombia,Yes,3/1/2021,2255260,48.58%,51.42%,3/1/2021,59866,63.67%,36.33%,3/1/2021,3.48%,1.88%,1.86,https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
+CR,Costa Rica,Yes,3/2/2021,205514,50.69%,49.31%,3/2/2021,2820,62.70%,37.31%,3/2/2021,1.70%,1.04%,1.63,https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1725-situacion-nacional-covid-19
+CZ,Czech Republic,Yes,3/9/2021,1317543,48.16%,51.84%,2/28/2021,20652,57.06%,42.95%,2/14/2021,2.08%,1.45%,1.43,https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19
+DK,Denmark,Yes,3/2/2021,212224,48.76%,51.24%,3/2/2021,2367,54.29%,45.71%,3/2/2021,1.24%,1%,1.25,https://covid19.ssi.dk/
+DO,Dominican Republic,Yes,8/28/2020,93732,51%,49%,8/30/2020,1710,66%,34%,8/28/2020,2.37%,1.26%,1.88,https://www.msp.gob.do/web/?page_id=6948#1586785071781-f0e8c057-f5f4
+EC,Ecuador,Yes,2/20/2021,274968,52.07%,47.93%,2/20/2021,15547,66.28%,33.72%,2/20/2021,7.20%,3.98%,1.81,https://public.tableau.com/profile/direcci.n.nacional.de.vigilancia.epidemiol.gica.msp#!/vizhome/COVID19ecu_MSP_DNVE/COVID-19MSP
+,England,Yes,2/28/2021,3635934,46.37%,53.63%,2/28/2021,122750,54.55%,45.45%,2/28/2021,3.97%,2.86%,1.39,https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports
+GQ,Equatorial Guinea,Yes,2/27/2021,5595,58.37%,41.63%,1/30/2021,88,69.32%,30.68%,1/30/2021,2.06%,1.30%,1.59,https://guineasalud.org/estadisticas/
+EE,Estonia,Yes,3/3/2021,69973,46%,54%,3/1/2021,598,50.67%,49.33%,3/1/2021,0.94%,0.78%,1.21,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+SZ,Eswatini,Yes,3/1/2021,17025,48.16%,51.84%,2/15/2021,544,51.84%,48.16%,2/15/2021,3.55%,3.05%,1.16,https://twitter.com/EswatiniGovern1
+FI,Finland,Yes,3/1/2021,58645,52.59%,47.41%,3/1/2021,773,50.58%,49.42%,3/1/2021,1.27%,1.37%,0.92,https://sampo.thl.fi/pivot/prod/en/epirapo/covid19case/fact_epirapo_covid19case?row=sex-444328&column=measure-141082
+FR,France,Yes,2/26/2021,3557602,46.13%,53.87%,2/25/2021,60625,58%,42%,2/25/2021,2.14%,1.33%,1.61,https://dc-covid.site.ined.fr/en/data/france/
+DE,Germany,Yes,3/1/2021,2433198,47.19%,52.81%,3/1/2021,70262,51.27%,48.73%,3/1/2021,3.14%,2.66%,1.18,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Gesamt.html
+GR,Greece,Yes,3/1/2021,187611,51.62%,48.38%,3/1/2021,6534,58.77%,41.23%,3/1/2021,3.97%,2.97%,1.34,https://eody.gov.gr/wp-content/uploads/2021/03/covid-gr-daily-report-20210301.pdf
+GT,Guatemala,Yes,3/1/2021,173317,55.16%,44.84%,3/1/2021,6274,70.88%,29.12%,3/1/2021,4.65%,2.35%,1.98,https://tablerocovid.mspas.gob.gt/
+GW,Guinea-Bissau,Yes,2/28/2021,3262,60.88%,39.12%,2/28/2021,48,64.58%,35.42%,2/28/2021,1.56%,1.33%,1.17,https://accovid.com/wp-content/uploads/2021/03/Boletim_Epidemiologico_Semanal_COVID_Nr_26_2021.pdf
+HT,Haiti,Yes,2/28/2021,12536,56.10%,43.90%,1/31/2021,245,61.22%,38.78%,1/31/2021,0.02%,0.02%,1.22,https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-01-2021.pdf
+HK,Hong Kong,Yes,2/28/2021,11006,48.31%,51.69%,2/28/2021,200,58.50%,41.50%,2/28/2021,2.20%,1.46%,1.51,https://www.chp.gov.hk/files/pdf/local_situation_covid19_en.pdf
+IN,India,Yes,9/1/2020,2877791,65%,35%,5/21/2020,3711,64%,36%,4/6/2020,2.62%,3.07%,0.85,https://ncdc.gov.in/dashboard.php
+ID,Indonesia,Yes,3/3/2021,1353834,50.80%,49.20%,3/3/2021,36721,56.40%,43.60%,3/3/2021,3.01%,2.40%,1.25,https://covid19.go.id/peta-sebaran
+IR,Iran,Yes,3/17/2020,14991,57%,43%,3/17/2020,853,59%,41%,3/17/2020,5.89%,5.43%,1.09,http://corona.behdasht.gov.ir/
+IQ,Iraq,Yes,3/3/2021,703778,56.80%,43.20%,3/3/2021,13458,54.27%,45.73%,3/3/2021,1.83%,2.02%,0.9,https://app.powerbi.com/view?r=eyJrIjoiNjljMDhiYmItZTlhMS00MDlhLTg3MjItMDNmM2FhNzE5NmM4IiwidCI6ImY2MTBjMGI3LWJkMjQtNGIzOS04MTBiLTNkYzI4MGFmYjU5MCIsImMiOjh9
+IL,Israel,Yes,3/1/2021,772902,49.82%,50.18%,3/1/2021,5776,57.43%,42.57%,3/1/2021,0.86%,0.63%,1.36,https://datadashboard.health.gov.il/COVID-19/?utm_source=go.gov.il&utm_medium=referral
+IT,Italy,Yes,2/24/2021,2829642,48.46%,51.54%,2/24/2021,94939,56.13%,43.87%,2/24/2021,3.89%,2.86%,1.36,https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_24-febbraio-2021.pdf
+JM,Jamaica,Yes,3/1/2021,22265,44.42%,55.59%,2/16/2021,370,55.68%,44.32%,2/16/2021,2.40%,1.53%,1.56,https://jamcovid19.moh.gov.jm/
+JE,Jersey,Yes,2/21/2021,3218,46%,54%,2/21/2021,69,62%,38%,2/21/2021,2.89%,1.51%,1.92,https://www.gov.je/Health/Coronavirus/Pages/CoronavirusCases.aspx
+JO,Jordan,Yes,3/1/2021,264216,51.84%,48.16%,3/1/2021,4727,64.40%,35.60%,3/1/2021,2.22%,1.32%,1.68,https://corona.moh.gov.jo/en
+KE,Kenya,Yes,2/28/2021,106125,63.34%,36.66%,2/28/2021,1859,69.98%,30.02%,2/28/2021,1.94%,1.43%,1.35,https://khro.health.go.ke/#/covid_19_tracker
+KG,Kyrgyzstan,Yes,7/16/2020,12498,47%,53%,7/16/2020,155,62%,38%,7/16/2020,1.63%,0.89%,1.83,http://www.med.kg/en/informatsii-2/2095-statistics-on-covid-19-in-kyrgyzstan-as-of-july-6-2020.html
+LV,Latvia,Yes,3/1/2021,86458,43.59%,56.41%,3/1/2021,1621,51.18%,48.82%,3/1/2021,2.20%,1.62%,1.36,https://spkc.gov.lv/lv/tavai-veselibai/aktualitate-par-jauno-koronavi
+LR,Liberia,Yes,2/28/2021,2014,65.94%,34.06%,2/28/2021,85,65.88%,34.12%,2/28/2021,4.22%,4.23%,1,https://www.facebook.com/164280647325112/photos/a.347331779019997/1215163702236796/
+LU,Luxembourg,Yes,3/2/2021,55902,50%,50%,3/2/2021,643,55%,45%,3/2/2021,1.27%,1.04%,1.22,https://covid19.public.lu/fr/graph.html
+MW,Malawi,Yes,2/7/2021,27422,59%,41%,1/5/2021,196,76.02%,23.98%,1/5/2021,3.19%,2.12%,1.5,https://malawipublichealth.org/index.php/resources/covid-19-situation-report/february-2021/weekly-situation-reports/week-5-2021-malawi-covid-19-weekly-situation-report-20210209-pdf/detail
+MV,Maldives,Yes,2/28/2021,19574,65.42%,34.58%,2/16/2021,58,67.24%,32.76%,2/16/2021,0.33%,0.31%,1.05,https://covid19.health.gov.mv/dashboard/
+MX,Mexico,Yes,3/1/2021,2088886,50.12%,49.88%,3/1/2021,185852,62.80%,37.20%,3/1/2021,11.15%,6.64%,1.68,https://coronavirus.gob.mx/datos/
+MD,Moldova,Yes,2/28/2021,186447,41.39%,58.61%,2/28/2021,3975,51.09%,48.91%,2/28/2021,2.63%,1.78%,1.48,http://gismoldova.maps.arcgis.com/apps/opsdashboard/index.html#/d274da857ed345efa66e1fbc959b021b
+MN,Mongolia,Yes,11/10/2020,374,70.05%,29.95%,8/4/2020,,0%,0%,8/4/2020,,,1,https://covid19.mohs.mn/p/cat/post/57/
+MA,Morocco,Yes,7/18/2020,17015,53%,47%,9/21/2020,1855,66.31%,33.69%,7/18/2020,2.98%,1.65%,1.8,https://covidata.2m.ma/#/fr/stats
+MM,Myanmar,Yes,9/10/2020,2265,53%,47%,9/28/2020,226,64.16%,35.84%,9/1/2020,1%,0.26%,3.84,https://datastudio.google.com/u/0/reporting/445c1281-c6ea-45e4-9bc0-5d561c511354/page/I44CB
+NP,Nepal,Yes,3/3/2021,274294,64.93%,35.07%,2/23/2021,2059,69.99%,30.01%,2/23/2021,0.82%,0.65%,1.26,https://covid19.mohp.gov.np/?fbclid=IwAR2_KRxuwxtNk7K92UnPF9Y3IVqh9ZDOzgc3l946lZJiLwtdOlHp6v6BZP8
+NL,Netherlands,Yes,3/2/2021,1096342,46.55%,53.45%,3/2/2021,15649,54.11%,45.89%,3/2/2021,1.66%,1.23%,1.35,https://www.rivm.nl/sites/default/files/2021-03/COVID-19_WebSite_rapport_wekelijks_20210302_1122_final_0.pdf
+NZ,New Zealand,Yes,3/4/2021,2389,47.84%,52.16%,2/3/2021,25,56%,44%,2/3/2021,1.27%,0.91%,1.4,https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-case-demographics
+NG,Nigeria,Yes,2/28/2021,134582,59.84%,40.16%,2/28/2021,1435,71.01%,28.99%,2/28/2021,1.27%,0.77%,1.64,https://ncdc.gov.ng/diseases/sitreps/?cat=14&name=An%20update%20of%20COVID-19%20outbreak%20in%20Nigeria
+MK,North Macedonia,Yes,3/1/2021,99400,50.88%,49.12%,3/1/2021,3000,62.65%,37.35%,3/1/2021,3.72%,2.29%,1.62,https://gdi-sk.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR0Dd9MY7njiNtDkPpPt8R2SeD4pW_6TO12axwKrT4CcegckY4P4Ezt43f4#/2096bd4b051b42948ac3f5747e80c3a5
+,Northern Ireland,Yes,3/3/2021,113127,46.48%,53.52%,3/4/2021,2065,52.40%,47.60%,3/4/2021,2.06%,1.62%,1.27,https://app.powerbi.com/view?r=eyJrIjoiZGYxNjYzNmUtOTlmZS00ODAxLWE1YTEtMjA0NjZhMzlmN2JmIiwidCI6IjljOWEzMGRlLWQ4ZDctNGFhNC05NjAwLTRiZTc2MjVmZjZjNSIsImMiOjh9
+NO,Norway,Yes,3/2/2021,71002,53.52%,46.48%,3/2/2021,632,52.85%,47.15%,3/2/2021,0.88%,0.90%,0.97,https://www.fhi.no/en/id/infectious-diseases/coronavirus/daily-reports/daily-reports-COVID19/
+PK,Pakistan,Yes,8/18/2020,289832,74%,26%,8/18/2020,6190,74%,26%,8/18/2020,2.14%,2.12%,1.01,http://covid.gov.pk/stats/pakistan
+PA,Panama,Yes,8/14/2020,79402,54%,46%,6/5/2020,373,68%,32%,6/5/2020,2.78%,1.89%,1.47,http://minsa.b-cdn.net/sites/default/files/publicacion-general
+PY,Paraguay,Yes,3/1/2021,160448,48.30%,51.70%,3/1/2021,3198,60.48%,39.52%,3/1/2021,2.50%,1.52%,1.64,https://www.mspbs.gov.py/reporte-covid19.html
+PE,Peru,Yes,3/1/2021,1329805,51.66%,48.34%,3/1/2021,46484,67.50%,32.50%,3/1/2021,4.57%,2.35%,1.94,https://www.datosabiertos.gob.pe/group/datos-abiertos-de-covid-19?sort_by=changed&f%5B0%5D=field_tags%3A913&f%5B1%5D=field_tags%3A489
+PH,Philippines,Yes,3/3/2021,582223,53.75%,46.25%,3/3/2021,12330,60.13%,39.87%,3/3/2021,2.37%,1.83%,1.3,https://ncovtracker.doh.gov.ph/
+PT,Portugal,Yes,3/1/2021,805375,45.26%,54.74%,3/1/2021,16389,52.29%,47.71%,3/1/2021,2.35%,1.77%,1.33,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
+IE,Republic of Ireland,Yes,2/27/2021,219512,47.48%,52.52%,2/27/2021,4319,52.51%,47.49%,2/27/2021,2.18%,1.78%,1.22,https://www.hpsc.ie/a-z/respiratory/coronavirus/novelcoronavirus/surveillance/epidemiologyofcovid-19inirelandweeklyreports/COVID-19%20Weekly%20Report_%20Week%206_%20Slideset_HPSC_website.pdf
+RO,Romania,Yes,2/28/2021,804090,46.26%,53.74%,2/28/2021,20403,59.58%,40.42%,2/28/2021,3.27%,1.91%,1.71,https://www.cnscbt.ro/index.php/analiza-cazuri-confirmate-covid19/2307-raport-saptamanal-episaptamana08-2021/file
+RW,Rwanda,Yes,3/1/2021,18850,61.23%,38.77%,3/1/2021,261,67.43%,32.57%,3/1/2021,1.53%,1.16%,1.31,https://gis.rbc.gov.rw/portal/apps/opsdashboard/index.html#/59872985985446bbaf8c394ad857c5cd
+LC,Saint Lucia,Yes,2/18/2021,2620,44.16%,55.84%,2/28/2021,28,89.29%,10.71%,1/31/2021,2.23%,0.33%,6.73,https://www.covid19response.lc/
+,Scotland,Yes,2/28/2021,202234,45.22%,54.78%,2/28/2021,9580,50.85%,49.15%,2/28/2021,5.33%,4.25%,1.25,https://beta.isdscotland.org/find-publications-and-data/population-health/covid-19/covid-19-statistical-report/9-september-2020/dashboard/
+SK,Slovakia,Yes,3/1/2021,311002,47.50%,52.50%,2/15/2021,5217,53.36%,46.64%,2/15/2021,2.15%,1.68%,1.28,https://github.com/Institut-Zdravotnych-Analyz/covid19-data
+SI,Slovenia,Yes,3/2/2021,192261,46.89%,53.11%,2/28/2021,4113,47.48%,52.52%,2/2/2021,2.21%,2.21%,1,https://www.nijz.si/sl/dnevno-spremljanje-okuzb-s-sars-cov-2-covid-19
+ZA,South Africa,Yes,3/2/2021,1499787,42.17%,57.83%,3/4/2021,48755,48.03%,51.97%,3/4/2021,3.70%,2.92%,1.27,https://www.nicd.ac.za/diseases-a-z-index/covid-19/surveillance-reports/national-covid-19-daily-report/
+KR,South Korea,Yes,3/3/2021,90816,49.37%,50.63%,3/3/2021,1612,49.88%,50.12%,3/3/2021,1.79%,1.76%,1.02,http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=
+ES,Spain,Yes,3/3/2021,3354623,47.14%,52.86%,3/3/2021,69975,54.86%,45.14%,3/3/2021,2.43%,1.78%,1.36,https://cnecovid.isciii.es/covid19/#documentaci%C3%B3n-y-datos
+SE,Sweden,Yes,3/2/2021,669123,47.73%,52.27%,3/2/2021,12882,53.64%,46.36%,3/2/2021,2.16%,1.71%,1.27,https://fohm.maps.arcgis.com/apps/opsdashboard/index.html#/68d4537bf2714e63b646c37f152f1392
+CH,Switzerland,Yes,3/4/2021,560915,47.46%,52.54%,3/4/2021,9319,53.73%,46.27%,3/4/2021,1.88%,1.46%,1.29,https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#1164290551
+TW,Taiwan,Yes,3/1/2021,955,49.01%,50.99%,3/1/2021,9,77.78%,22.22%,3/1/2021,1.50%,0.41%,3.64,https://data.cdc.gov.tw/en/dataset/agsdctable-day-19cov/resource/a59483fd-4b09-42bd-af15-3c123147d7e3
+TH,Thailand,Yes,11/1/2020,3784,56.37%,43.63%,3/1/2021,83,75.90%,24.10%,11/1/2020,2.11%,0.85%,2.49,https://ddc.moph.go.th/viralpneumonia/eng/file/situation/situation-no417-010364.pdf
+TN,Tunisia,Yes,1/10/2021,162350,44%,56%,1/10/2021,5310,66%,34%,1/10/2021,4.91%,1.99%,2.47,https://www.onmne.tn/?p=10636
+TR,Turkey,Yes,10/25/2020,362800,51%,49%,10/25/2020,9799,61.86%,38.14%,10/25/2020,3.28%,2.10%,1.56,https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html
+US,USA,Yes,3/8/2021,21630546,47.75%,52.25%,3/3/2021,494235,54.61%,45.39%,2/28/2021,2%,1.54%,1.3,https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf
+UG,Uganda,Yes,9/27/2020,4904,72.70%,27.30%,9/27/2020,31,67.74%,32.26%,9/27/2020,0.59%,0.75%,0.79,https://covid19.gou.go.ug/statistics.html
+UA,Ukraine,Yes,1/5/2021,1001131,40.10%,59.90%,1/5/2021,17395,53.22%,46.78%,1/5/2021,2.31%,1.36%,1.7,https://phc.org.ua/kontrol-zakhvoryuvan/inshi-infekciyni-zakhvoryuvannya/koronavirusna-infekciya-covid-19
+VN,Vietnam,Yes,3/2/2021,2448,49.59%,50.41%,3/2/2021,35,37.14%,62.86%,3/2/2021,1.07%,1.78%,0.6,https://www.who.int/vietnam/internal-publications-detail
+YE,Yemen,Yes,3/2/2021,2346,68%,32%,2/17/2021,619,28%,72%,2/17/2021,11.83%,64.63%,0.18,https://app.powerbi.com/view?r=eyJrIjoiYjMzY2YzYTctM2Y0Ny00MzhjLTg3NzgtZjI3MmQ3MDMwNWY2IiwidCI6ImY2MTBjMGI3LWJkMjQtNGIzOS04MTBiLTNkYzI4MGFmYjU5MCIsImMiOjh9
+ZW,Zimbabwe,Yes,12/12/2020,11219,55.15%,44.85%,12/12/2020,307,62.07%,37.93%,12/12/2020,3.08%,2.31%,1.33,http://www.mohcc.gov.zw/index.php?option=com_phocadownload&view=category&id=15&Itemid=742
+DZ,Algeria,Partial,2/16/2021,53399,53.88%,46.12%,,,,,,,,,https://corona-dz.live/
+AM,Armenia,Partial,,,,,10/28/2020,1243,53.50%,46.50%,,,,,https://ampop.am/covid19-coronavirus-dynamic-statistics-in-armenia/
+AZ,Azerbaijan,Partial,2/6/2021,231022,46%,54%,,,,,,,,,https://koronavirusinfo.az/az/page/statistika/azerbaycanda-cari-veziyyet
+BH,Bahrain,Partial,7/6/2020,6081,88%,12%,,,,,,,,,https://www.moh.gov.bh/
+BM,Bermuda,Partial,3/1/2021,713,44.74%,55.26%,,,,,,,,,https://app.powerbi.com/view?r=eyJrIjoiYTVjY2MyY2YtZmEzNy00NDhjLWJkMjEtNGFjMjM0MmFmOWFmIiwidCI6IjAzNTQ4YjRhLTRmNjQtNDc0Ny1iNDdjLTcwODY5ZDE2NWMzZCIsImMiOjF9
+BW,Botswana,Partial,7/17/2020,48,83%,17%,9/28/2020,15,40%,60%,,,,,https://covid19portal.gov.bw/data-dashboard?v=202005211151
+BG,Bulgaria,Partial,5/25/2020,2443,49%,51%,,,,,,,,,https://coronavirus.bg/bg/news/424
+CF,Central African Republic,Partial,10/7/2020,4854,73.49%,26.51%,,,,,,,,,https://covid19.who.int/region/afro/country/cf
+CG,Congo,Partial,11/15/2020,5632,71.50%,28.50%,,,,,,,,,http://sante.gouv.cg/wp-content/uploads/2020/11/SITREP-N-111-COVID-19-CONGO-16-11-2020-1.pdf
+HR,Croatia,Partial,3/2/2021,243458,47.77%,52.23%,,,,,,,,,https://koronavirus.hr/podaci/489
+CU,Cuba,Partial,12/13/2020,9492,53.19%,46.81%,3/2/2021,333,58.86%,41.14%,,,,,https://covid19cubadata.github.io/#cuba
+CY,Cyprus,Partial,3/1/2021,35009,48.80%,51.20%,,,,,,,,,https://covid19.ucy.ac.cy/
+DJ,Djibouti,Partial,6/2/2020,3779,68%,32%,,,,,,,,,https://covid19.gouv.dj/
+SV,El Salvador,Partial,3/2/2021,59866,50.24%,49.76%,,,,,,,,,https://covid19.gob.sv/
+ET,Ethiopia,Partial,6/29/2020,5846,61%,39%,,,,,,,,,https://twitter.com/lia_tadesse/status/1366426863535595520/photo/2
+FO,Faroe Islands,Partial,3/3/2021,376,50%,50%,,,,,,,,,https://corona.fo/statistics?_l=en
+PF,French Polynesia,Partial,10/4/2020,2228,49%,51%,9/29/2020,7,42.86%,57.14%,,,,,https://www.service-public.pf/
+GA,Gabon,Partial,8/26/2020,8409,40%,60%,,,,,,,,,https://infocovid.ga/cartographie-epidemiologique/
+GM,Gambia,Partial,2/28/2021,4706,58.99%,41.01%,,,,,,,,,http://www.moh.gov.gm/covid-19-report/
+GH,Ghana,Partial,3/2/2021,84023,58%,42%,,,,,,,,,https://ghanahealthservice.org/covid19/
+GI,Gibraltar,Partial,,,,,1/6/2021,10,80%,20%,,,,,https://healthygibraltar.org/news/update-on-wuhan-coronavirus/
+GG,Guernsey,Partial,5/11/2020,252,37%,63%,2/3/2021,13,38.46%,61.54%,,,,,https://covid19.gov.gg/test-results
+GN,Guinea,Partial,1/23/2021,15138,68.09%,31.91%,,,,,,,,,https://anss-guinee.org/assets/document/DOC_1611477264783106668600d311049a90.pdf
+GY,Guyana,Partial,3/2/2021,8626,51.57%,48.44%,,,,,,,,,https://www.health.gov.gy/
+HN,Honduras,Partial,9/14/2020,67789,52%,48%,,,,,,,,,https://covid19honduras.org/
+HU,Hungary,Partial,,,,,3/1/2021,15188,50.63%,49.37%,,,,,https://koronavirus.gov.hu/elhunytak
+IS,Iceland,Partial,6/21/2020,1823,50%,50%,,,,,,,,,https://www.covid.is/data
+JP,Japan,Partial,6/22/2020,17301,55%,45%,,,,,,,,,https://www.niid.go.jp/niid/en/2019-ncov-e.html
+KZ,Kazakhstan,Partial,6/8/2020,9452,61%,39%,,,,,,,,,https://hls.kz/
+LB,Lebanon,Partial,2/15/2021,339122,54%,46%,7/6/2020,36,31%,69%,,,,,https://www.facebook.com/wholeb/photos/pcb.5276147375759857/5276143712426890
+LI,Liechtenstein,Partial,2/28/2021,2461,48.19%,51.81%,,,,,,,,,https://www.llv.li/inhalt/118804/amtsstellen/sonderseite-covid-19
+LT,Lithuania,Partial,2/11/2021,187707,43.81%,56.19%,6/1/2020,70,47%,53%,,,,,https://open-data-ls-osp-sdg.hub.arcgis.com/datasets/034590b3317d46c0aa2717d0e87760d8_0?geometry=-3.889%2C50.494%2C51.613%2C59.295&selectedAttribute=gender
+MY,Malaysia,Partial,,,,,11/9/2020,300,68.33%,31.67%,,,,,https://ukkdosm.github.io/covid-19
+ML,Mali,Partial,2/7/2021,8176,64%,36%,,,,,,,,,https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/mali_sitrep_covid-19_n143_du_28_fevrier_2021.pdf
+MT,Malta,Partial,7/22/2020,674,60%,40%,,,,,,,,,https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/covid-19-infographics.aspx
+ME,Montenegro,Partial,3/2/2021,76390,49.58%,50.42%,1/29/2021,61496,50.01%,49.99%,,,,,https://www.ijzcg.me/
+MZ,Mozambique,Partial,3/1/2021,59606,52.55%,47.45%,,,,,,,,,https://www.misau.gov.mz/index.php/covid-19-boletins-diarios
+PS,Palestine,Partial,3/2/2021,210073,49.91%,50.09%,,,,,,,,,https://app.powerbi.com/view?r=eyJrIjoiODJlYWM1YTEtNDAxZS00OTFlLThkZjktNDA1ODY2OGQ3NGJkIiwidCI6ImY2MTBjMGI3LWJkMjQtNGIzOS04MTBiLTNkYzI4MGFmYjU5MCIsImMiOjh9
+PL,Poland,Partial,,,,,2/5/2021,11451,57.49%,42.51%,,,,,https://docs.google.com/spreadsheets/d/1ierEhD6gcq51HAm433knjnVwey4ZE5DCnu1bW7PRG3E/htmlview?fbclid=IwAR3diFvPqpkq0Kam18jvA9Y2uxq8ihE0DGeynwPJSlwtOeTCcWgGHgK47AM#
+QA,Qatar,Partial,7/1/2020,110986,84.85%,15.15%,,,,,,,,,https://www.medrxiv.org/content/10.1101/2020.07.16.20155317v2.full.pdf
+SA,Saudi Arabia,Partial,5/26/2020,76726,75%,25%,,,,,,,,,https://twitter.com/SaudiMOH/status/1331576648123240449
+SN,Senegal,Partial,1/25/2021,24993,58%,42%,,,,,,,,,http://www.sante.gouv.sn/sites/default/files/SITREP%2083%20Covid-19%2022-02-2021.pdf
+RS,Serbia,Partial,,,,,5/3/2020,193,61.66%,38.34%,,,,,https://covid19.data.gov.rs/
+SL,Sierra Leone,Partial,3/1/2021,3884,58.50%,41.50%,,,,,,,,,http://dhse.gov.sl/
+SG,Singapore,Partial,5/5/2020,6530,89%,11%,,,,,,,,,https://www.moh.gov.sg/covid-19/situation-report
+SO,Somalia,Partial,3/1/2021,7518,74%,26%,,,,,,,,,http://moh.gov.so/en/covid19/
+SS,South Sudan,Partial,12/13/2020,3074,75.16%,24.84%,,,,,,,,,https://moh.gov.ss/weekly_updates.php
+VE,Venezuela,Partial,3/2/2021,139545,54.52%,45.48%,,,,,,,,,https://covid19.patria.org.ve/estadisticas-venezuela/
+AD,Andorra,No,,,,,,,,,,,,,https://www.govern.ad/coronavirus
+AO,Angola,No,,,,,,,,,,,,,https://www.cisp.gov.ao:10443/en/#_estatisticas
+AW,Aruba,No,,,,,,,,,,,,,https://www.arubacovid19.org/
+BS,Bahamas,No,,,,,,,,,,,,,https://www.bahamas.gov.bs
+BY,Belarus,No,,,,,,,,,,,,,http://stopcovid.belta.by/
+BJ,Benin,No,,,,,,,,,,,,,https://www.gouv.bj/coronavirus/flashinfos/
+BO,Bolivia,No,,,,,,,,,,,,,https://www.boliviasegura.gob.bo/
+BI,Burundi,No,,,,,,,,,,,,,https://covid19.who.int/region/afro/country/bi
+CM,Cameroon,No,,,,,,,,,,,,,https://covid19.who.int/region/afro/country/cm
+KM,Comoros,No,,,,,,,,,,,,,https://stopcoronavirus.km/actualit%C3%A9s/2021/02/01/pand%C3%A9mie-covid-19/-union-des-comores-communiqu%C3%A9-n%C2%B0129/
+CI,Cote d'Ivoire,No,,,,,,,,,,,,,https://web.facebook.com/Mshpci/?_rdc=1&_rdr
+CW,Curaçao,No,,,,,,,,,,,,,https://www.facebook.com/GobiernuKorsou/
+CD,DRC,No,,,,,,,,,,,,,https://www.stopcoronavirusrdc.info/
+KP,Dem. People's Republic of Korea,No,,,,,,,,,,,,,
+EG,Egypt,No,,,,,,,,,,,,,https://web.facebook.com/egypt.mohp/photos/a.122315979319023/325757972308155/
+ER,Eritrea,No,,,,,,,,,,,,,https://shabait.com/2021/03/02/announcement-from-the-ministry-of-health-130/
+GE,Georgia,No,,,,,,,,,,,,,https://stopcov.ge/en/
+GL,Greenland,No,,,,,,,,,,,,,https://nun.gl/emner/borgere/coronavirus_emne/foelg_smittespredningen?sc_lang=da
+XK,Kosovo,No,,,,,,,,,,,,,https://covid19-rks.net/en
+KW,Kuwait,No,,,,,,,,,,,,,https://corona.e.gov.kw/en
+LS,Lesotho,No,,,,,,,,,,,,,https://www.gov.ls/nacosec/
+LY,Libya,No,,,,,,,,,,,,,https://ncdc.org.ly/Ar/libyan-covid-19-dashboard/
+MG,Madagascar,No,,,,,,,,,,,,,https://www.facebook.com/orangeactu/photos/a.1380589932211150/2833073116962817/?type=3&theater
+MR,Mauritania,No,,,,,,,,,,,,,https://www.sante.gov.mr/wp-content/uploads/2021/02/23-02-2021-Mauritanie-Sitrep-COVID-19_AR-.pdf
+MU,Mauritius,No,,,,,,,,,,,,,https://covid19.mu/
+MC,Monaco,No,,,,,,,,,,,,,https://www.gouv.mc/A-la-Une-du-Portail/Covid-19-8-nouveaux-cas-positifs-et-10-guerisons-ce-mercredi-3-mars
+NA,Namibia,No,,,,,,,,,,,,,facebook.com/MoHSSNamibia/
+NI,Nicaragua,No,,,,,,,,,,,,,https://www.el19digital.com/Coronavirus/articulo/titulo:104282-conozca-el-informe-actualizado-de-la-situacion-de-la-covid-19-en-nicaragua
+NE,Niger,No,,,,,,,,,,,,,https://coronavirus.ne/
+OM,Oman,No,,,,,,,,,,,,,https://covid19.moh.gov.om/#/home
+PG,Papua New Guinea,No,,,,,,,,,,,,,https://covid19.papua.go.id/#monitor
+RU,Russia,No,,,,,,,,,,,,,https://xn--80aesfpebagmfblc0a.xn--p1ai/
+VC,Saint Vincent and the Grenadines,No,,,,,,,,,,,,,http://health.gov.vc/health/index.php/c/1319-covid-19-report-as-at-30th-january-2021
+SM,San Marino,No,,,,,,,,,,,,,https://www.pa.sm/SASVisualAnalyticsViewer/VisualAnalyticsViewer_guest.jsp?reportSBIP=SBIP%3A%2F%2FMETASERVER%2FShared%20Data%2FReportGuest%2FCOVID19%20-%20Cruscotto%20Pubblico(Report)&page=vi1&informationEnabled=false&commentsEnabled=false&reportViewOnly=true&reportContextBar=false
+SAO,Sao Tome and Principe,No,,,,,,,,,,,,,https://www.facebook.com/MSaudeSTeP/photos/pcb.3647781725341901/3647777768675630
+SEY,Seychelles,No,,,,,,,,,,,,,http://www.health.gov.sc/index.php/2021/02/11/update-on-covid-19-cases_9th-february-2020/
+SX,Sint Maarten,No,,,,,,,,,,,,,http://www.sintmaartengov.org/government/VSA/Health-Updates/NOVELCORONAVIRUS/Pages/Current-Situation.aspx
+LK,Sri Lanka,No,,,,,,,,,,,,,https://hpb.health.gov.lk/covid19-dashboard/
+SD,Sudan,No,,,,,,,,,,,,,http://www.fmoh.gov.sd/index.php
+SR,Suriname,No,,,,,,,,,,,,,https://covid-19.sr/
+SY,Syria,No,,,,,,,,,,,,,https://app.powerbi.com/view?r=eyJrIjoiNTA0NWMxZmYtMDJiMC00ZWU0LTllNTktZTViZjYwYThjZmUzIiwidCI6ImY2MTBjMGI3LWJkMjQtNGIzOS04MTBiLTNkYzI4MGFmYjU5MCIsImMiOjh9
+TJ,Tajikistan,No,,,,,,,,,,,,,https://covid.tj/#charts
+TZ,Tanzania,No,,,,,,,,,,,,,https://covid19.who.int/region/afro/country/tz
+TG,Togo,No,,,,,,,,,,,,,https://covid19.gouv.tg/situation-au-togo/
+TT,Trinidad and Tobago,No,,,,,,,,,,,,,https://www.covid19.gov.tt/trinidad-and-tobago-covid-19-novel-coronavirus-update-650/
+AE,UAE,No,,,,,,,,,,,,,https://covid19.ncema.gov.ae/en
+UY,Uruguay,No,,,,,,,,,,,,,https://www.gub.uy/sistema-nacional-emergencias/comunicacion/noticias/informacion-interes-actualizada-sobre-coronavirus-covid-19-uruguay
+UZ,Uzbekistan,No,,,,,,,,,,,,,https://coronavirus.uz/en
+ZM,Zambia,No,,,,,,,,,,,,,https://www.facebook.com/mohzambia/
+System.IO.MemoryStream
